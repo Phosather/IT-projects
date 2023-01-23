@@ -1,0 +1,16 @@
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\bin\Debug\net5.0\esoft_reshenije.exe
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\bin\Debug\net5.0\esoft_reshenije.deps.json
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\bin\Debug\net5.0\esoft_reshenije.runtimeconfig.json
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\bin\Debug\net5.0\esoft_reshenije.runtimeconfig.dev.json
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\bin\Debug\net5.0\esoft_reshenije.dll
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\bin\Debug\net5.0\ref\esoft_reshenije.dll
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\bin\Debug\net5.0\esoft_reshenije.pdb
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\esoft_reshenije.csprojAssemblyReference.cache
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\esoft_reshenije.GeneratedMSBuildEditorConfig.editorconfig
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\esoft_reshenije.AssemblyInfoInputs.cache
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\esoft_reshenije.AssemblyInfo.cs
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\esoft_reshenije.csproj.CoreCompileInputs.cache
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\esoft_reshenije.dll
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\ref\esoft_reshenije.dll
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\esoft_reshenije.pdb
+S:\ИСП 221\Telegin\4 semestr\esoft_reshenije\esoft_reshenije\obj\Debug\net5.0\esoft_reshenije.genruntimeconfig.cache
